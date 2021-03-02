@@ -1,10 +1,3 @@
-/*
-
-Name: Joshua Elledge
-ID:   1001765744
-
-*/
-
 // The MIT License (MIT)
 // 
 // Copyright (c) 2016, 2017, 2021 Trevor Bakker 
@@ -48,7 +41,7 @@ ID:   1001765744
 #define MAX_NUM_ARGUMENTS 10    // Mav shell only supports 10 arguments
 
 #define HISTORY_LENGTH 15       // Number of maximum pids/processes to show in
-                                // their respective functions
+                                // their respective histories
 
 
 // See function descriptions at initialization
